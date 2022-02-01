@@ -45,7 +45,7 @@ nome1="Maradona";
 break;
 }
 
-String nome2=cal[posizionec2]; 0000000000000000000
+String nome2=cal[posizionec2]; 
 
 switch(nome2){
 case "img/barella.jpeg":
